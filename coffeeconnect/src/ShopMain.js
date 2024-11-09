@@ -1,7 +1,7 @@
 //import {Carousel} from "flowbite-react";
 import { Carousel } from "@material-tailwind/react";
 import * as s from './styledcomponent/shopmain.tsx'
-function MainBanner() {
+function ShopMain() {
   
   
   const bannerImages = [
@@ -195,4 +195,4 @@ function MainBanner() {
 
   )
 }
-export default MainBanner;
+export default ShopMain;

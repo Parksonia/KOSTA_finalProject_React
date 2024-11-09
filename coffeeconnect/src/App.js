@@ -1,10 +1,10 @@
-import MainBanner from './MainBanner';
+import ShopMain from './ShopMain';
 
 function App() {
   return (
 
     <div className="App">
-      <MainBanner/>
+      <ShopMain/>
     </div>
 
   );
