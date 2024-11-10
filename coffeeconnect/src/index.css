@@ -59,6 +59,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
   line-height: 1;
 }
+ul,dl,li{
+  margin: 0;
+  padding: 0;
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
